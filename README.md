@@ -1,4 +1,4 @@
-# 🚀 Cripto Dashboard
+# 💰📈 Cripto Dashboard
 
 Um pequeno dashboard para consultar preços de criptomoedas usando a API do CoinGecko. Ideal para prática de fetch, módulos ES, e manipulação do DOM.
 
